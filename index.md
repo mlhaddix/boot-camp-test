@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: Home
 ---
 
@@ -13,3 +13,4 @@ title: Home
 - [Embeds](04-embeds-examples)
 
 [Cquester Analytics](https://www.cquesteranalytics.com/)
+[Soil Innovation Laboratory](https://agsci.colostate.edu/soilinnovationlab/people/)
